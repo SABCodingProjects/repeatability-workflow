@@ -1,0 +1,21 @@
+# All actual inputs and outputs remain local.
+/data/private/
+/outputs/
+/config.local.R
+*.xlsx
+*.xls
+*.csv
+!data/example/*.csv
+*.rds
+*.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+*.pdf
+*.png
+*.zip
